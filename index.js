@@ -2,4 +2,4 @@
 
 const currentUser = "Anonymous";
 const welcomeMessage = "Welcome to Klossybook, "+ currentUser + "!";
-const excitedWelcomeMessage = "hello"
+const excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, "
